@@ -1,0 +1,18 @@
+{
+  "name": "stockmarket",
+  "version": "0.1.0",
+  "description": "",
+  "main": "stockMarket.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha -s 0"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2"
+  }
+}
